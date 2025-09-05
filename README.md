@@ -61,12 +61,12 @@ cd eeg-persian-speech
 Create a virtual environment (recommended):
 
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate  # On Winsdows use `venv\Scripts\activate`
 
 Install dependencies:
 
 pip install -r requirements.txt
-
+```
 
 
 License
